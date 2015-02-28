@@ -1,0 +1,14 @@
+#second-navigation {
+    border: none;
+    background-color: #fff;
+}
+
+#right-nav {
+    min-height: 600px;
+}
+
+
+#right-nav li {
+    border-bottom: solid 1px;
+
+}
